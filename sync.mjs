@@ -14,6 +14,8 @@ const LAYOUTS = [
 
 const SOURCES = [
   { source: "src/eggs.js", name: "neko-shared-eggs" },
+  { source: "src/eggsSync.js", name: "neko-shared-egg-sync" },
+  { source: "src/searchEggs.js", name: "neko-shared-search-eggs" },
   { source: "src/chat.js", name: "neko-shared-chat" },
 ];
 
