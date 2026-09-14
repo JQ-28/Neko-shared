@@ -1,0 +1,10 @@
+{
+  "name": "neko-shared",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "neko 文档站与功能站共用的彩蛋、对话回复与表情映射真源",
+  "scripts": {
+    "sync": "node sync.mjs"
+  }
+}
